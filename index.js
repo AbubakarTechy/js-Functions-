@@ -4,8 +4,10 @@ function myFunc(){
     console.log("This is my first function");
     console.log("Thi sis sec line");
 }
-myFunc();
 
+
+myFunc();
+____________________________________
 
 _________// ii)  Function with parameter
 function para(msg){   //func parameter --> they r local variable
@@ -47,4 +49,6 @@ function prac(msg){
 }
 var anss=prac("abubakar");
 console.log(anss);
+
+_____________________________________________
 

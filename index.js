@@ -4,8 +4,6 @@ function myFunc(){
     console.log("This is my first function");
     console.log("Thi sis sec line");
 }
-
-
 myFunc();
 ____________________________________
 

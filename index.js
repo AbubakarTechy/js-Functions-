@@ -33,6 +33,7 @@ console.log(ans);
 
 ____________// iv) Arrow function
 
+
 const arrowSum=(a,b)=>{
     console.log(a+b);
 }

@@ -1,4 +1,5 @@
 ______________________________//Functions
+
 _________// i) Simple function
 function myFunc(){
     console.log("This is my first function");

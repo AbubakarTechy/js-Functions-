@@ -5,6 +5,7 @@ function myFunc(){
     console.log("Thi sis sec line");
 }
 myFunc();
+
 ____________________________________
 
 _________// ii)  Function with parameter

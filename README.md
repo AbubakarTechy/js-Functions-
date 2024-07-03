@@ -1,4 +1,3 @@
 # js-Functions-
-All about functions....
-..
+All about js.functions.
 

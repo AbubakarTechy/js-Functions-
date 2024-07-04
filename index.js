@@ -5,7 +5,7 @@ function myFunc(){
     console.log("Thi sis sec line");
 }
 myFunc();
-____________________________________
+____________________________________.
 
 _________// ii)  Function with parameter
 function para(msg){   //func parameter --> they r local variable
